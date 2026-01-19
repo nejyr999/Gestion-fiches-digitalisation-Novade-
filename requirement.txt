@@ -1,9 +1,3 @@
 streamlit
-pandas 
-plotly.express
-plotly.graph_objects 
-datetime
-timedelta
-json
-BytesIO 
-base64
+pandas
+plotly
